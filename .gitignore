@@ -2,6 +2,9 @@
 resume.txt
 interview.txt
 
+# Claude Code local settings
+.claude/
+
 # Python
 __pycache__/
 *.pyc
