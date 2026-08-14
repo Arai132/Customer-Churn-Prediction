@@ -1,0 +1,14 @@
+# Personal / non-project files
+resume.txt
+interview.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Downloaded/generated data
+data/
